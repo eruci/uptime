@@ -14,8 +14,6 @@ sites:
     url: https://foodpages.ca
   - name: dinehere.us
     url: https://dinehere.us
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
