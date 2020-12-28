@@ -20,8 +20,8 @@ status-website:
   cname: uptime.3geonames.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://geocode.xyz/geocodelogo.svg
+  name: Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Uptime
   navbar:
